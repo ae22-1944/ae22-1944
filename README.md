@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hola! 👋
 
-Este es un perfil de GitHub con fines académicos para la clase de INF-161-03.
+Soy Adán Estévez, estudiante de Ingeniería en Sistemas Computacionales en la Universidad Nacional Pedro Henríquez Ureña (UNPHU).
 
 <!--
 **ae22-1944/ae22-1944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
